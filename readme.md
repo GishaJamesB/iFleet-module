@@ -1,8 +1,10 @@
-#iFleet
+##iFleet
 
  This module is based on the documentation here `http://api-docs.opskii.com/`
 
-## Generate Token
+ To install the module run `npm install ifleet`
+
+### Generate Token
 
 ```
 var iFleetToken = require('ifleet/iFleetToken')
