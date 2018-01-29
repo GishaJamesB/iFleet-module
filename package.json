@@ -1,0 +1,14 @@
+{
+  "name": "ifleet",
+  "version": "1.0.4",
+  "description": "A module to communicate with iFleet",
+  "main": "iFleetToken.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gisha James",
+  "license": "ISC",
+  "dependencies": {
+    "request-promise": "^4.2.2"
+  }
+}
